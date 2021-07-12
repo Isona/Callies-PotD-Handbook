@@ -34,7 +34,7 @@ Good to fight:
 - Everything
 
 Caution: 
-- Hornet - Casts Final Sting after a while, dealing a lot of damage, walk away to avoid
+- *Hornet* - Casts Final Sting after a while, dealing a lot of damage, walk away to avoid
 
 Proximity:
 - Hornet
@@ -52,20 +52,24 @@ Good to fight:
 
 Caution:
 - Slimes - Enrages after a while, exploding and killing you. Be careful not to step on a toad trap while fighting them
-- Cobra - If you are a toad, they use Devour, one-shotting you
+- Cobra - If you are a toad, they use Devour, one-shotting you. They also have a gaze attack which petrifies for 15 seconds
 
 Proximity:
 - Slime
 - Pudding
 - Ochu
-- Seedling
 - Morbol
+
+Sound:
+- Ninki-Nanka
+- Nanka
+- Seedling
 
 ### The Boss
 
 **TL;DR:** Kite it, kill adds, don't stand in AoEs
 
-It has a tank buster which it will do periodically starting a few seconds in without warning
+It has a cleave which it will do periodically starting a few seconds in without warning which hits quite hard - be prepared with a potion, especially if at lower aetherpool levels
 
 It has a phase where it will walk to its spawn point, spawn 2 wasp adds and use a line AoE periodically. Focus the wasps, they use final sting
 
