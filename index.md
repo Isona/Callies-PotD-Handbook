@@ -34,7 +34,7 @@ Good to fight:
 - Everything
 
 Caution: 
-- *Hornet* - Casts Final Sting after a while, dealing a lot of damage, walk away to avoid
+- Hornet - Casts Final Sting after a while, dealing a lot of damage, walk away to avoid
 
 Proximity:
 - Hornet
@@ -51,8 +51,9 @@ Good to fight:
 - Everything
 
 Caution:
-- Slimes - Enrages after a while, exploding and killing you. Be careful not to step on a toad trap while fighting them
+- Slime - Enrages after a while, exploding and killing you. Be careful not to step on a toad trap while fighting them
 - Cobra - If you are a toad, they use Devour, one-shotting you. They also have a gaze attack which petrifies for 15 seconds
+- Toad - Pulls you in then casts an AoE around itself, be wary they don't pull you over traps
 
 Proximity:
 - Slime
