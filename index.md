@@ -84,10 +84,13 @@ Good to fight:
 Caution:
 - Skatene - Casts Chirp, putting you to sleep. They'll hit you straight after and wake you up, but try not to kill them right as the cast goes off!
 - Minotaur - Patrols, casts 111-Tonze-Swing, a point blank AoE which deals a lot of damage
+- Adamantoise - Has a good amount of health and hits reasonably hard, casts a medium sized AoE around itself periodically
+- Drake - Buffs itself, causing you to take damage when you attack it, adds up if AoEing
 
 Proximity:
-- Urolith
+- Marolith
 - Wivre
+- Centaur
 
 Sound:
 - Dullahan
@@ -96,7 +99,8 @@ Sound:
 ### The Boss
 **TL;DR:** Kite it around, don't stand in the puddles, every 4 puddles run to the centre for the Fear Itself cast
 
-This boss will put down 4 puddles in the pattern fire, ice, fire, ice, you can kite it around to avoid its autoattacks and also the puddles
+This boss is level 49. It will put down 4 puddles in the pattern fire, ice, fire, ice, you can kite it around to avoid its autoattacks and also the puddles
+
 After 4 puddles it will run to the centre and cast "Fear Itself", an untelegraphed donut AoE which does a lot of damage and inflicts terror - stand in the centre with it to avoid
 
 ## Floors 31-40
