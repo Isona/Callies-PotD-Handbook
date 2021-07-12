@@ -34,7 +34,7 @@ Good to fight:
 - Everything
 
 Caution: 
-- Hornet - Will cast Final Sting after a while dealing a lot of damage, you can walk away from it to avoid this
+- Hornet - Casts Final Sting after a while, dealing a lot of damage, walk away to avoid
 
 Proximity:
 - Hornet
@@ -51,8 +51,8 @@ Good to fight:
 - Everything
 
 Caution:
-- Slimes - They enrage after a while, exploding and killing you. Be careful not to step on a toad trap while fighting them
-- Cobra - Will cast a "Devour" skill if you are a toad, one-shotting you
+- Slimes - Enrages after a while, exploding and killing you. Be careful not to step on a toad trap while fighting them
+- Cobra - If you are a toad, they use Devour, one-shotting you
 
 Proximity:
 - Slime
@@ -77,8 +77,8 @@ Good to fight:
 - Everything
 
 Caution:
-- Skatene - They cast Chirp which will put you to sleep. They'll hit you straight after and wake you up, but try not to kill them right as the cast goes off!
-- Minotaur - They patrol and cast a point blank AoE called 111-Tonze-Swing which deals a lot of damage
+- Skatene - Casts Chirp, putting you to sleep. They'll hit you straight after and wake you up, but try not to kill them right as the cast goes off!
+- Minotaur - Patrols, casts 111-Tonze-Swing, a point blank AoE which deals a lot of damage
 
 Proximity:
 - Urolith
