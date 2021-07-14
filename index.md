@@ -175,7 +175,7 @@ Proximity:
 - Arch Demon
 
 ### The Boss
-**TL;DR** Kite it around the edge. Places 2 puddles which inflict bleed, then summons orbs around edge and casts a knockback - get knocked into a spot without orbs.
+**TL;DR** Kite it around the edge. Places 2 puddles which inflict bleed, then summons orbs around edge and casts a knockback - get knocked into a spot without orbs
 
 This boss has a cycle where it will place 2 puddles which inflict bleed while you're standing in them, while this happens you should kite it around the outside of the room.
 
@@ -185,9 +185,21 @@ You can use Arm's Length to avoid the knockback, but this is mainly only useful 
 
 ## Floors 61-70
 ### Mob Overview
+Good to Fight:
+- Everything
+
+Proximity:
+- Wivre
+- Diplocaulus
+- Triceratops
+- Pteranodon
 
 ### The Boss
-**TL;DR:** 
+**TL;DR:**: Kite it around the edge, keep it out of puddles
+
+This boss will periodically use a skill called Douse which will spawn a puddle underneath it, while stood in these puddles the boss gains a haste buff. It's worth noting that these puddles won't harm you if you stand in them.
+
+It also periodically casts a slow debuff and then an AoE - the slow has diminishing returns so halves in length each time you get it. It's worth using sprint a few seconds after getting the first debuff to avoid the first AoE it does afterwards.
 
 ## Floors 71-80
 ### Mob Overview
