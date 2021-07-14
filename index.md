@@ -195,7 +195,7 @@ Proximity:
 - Pteranodon
 
 ### The Boss
-**TL;DR:**: Kite it around the edge, keep it out of puddles
+**TL;DR:** Kite it around the edge, keep it out of puddles
 
 This boss will periodically use a skill called Douse which will spawn a puddle underneath it, while stood in these puddles the boss gains a haste buff. It's worth noting that these puddles won't harm you if you stand in them.
 
