@@ -203,9 +203,20 @@ It also periodically casts a slow debuff and then an AoE - the slow has diminish
 
 ## Floors 71-80
 ### Mob Overview
+Good to Fight:
+- Everything
+
+Proximity:
+- Dhalmel
+- Sasquatch
+- Bird
 
 ### The Boss
-**TL;DR:** 
+**TL;DR:** Thunderbolt, Charybdis, Thunderbolt, Trounce from East, Thunderbolt, Charybdis, Thunderbolt, Trounce from West - Repeat. Meteor cast at 10%
+
+This boss has a fixed cycle in which it does its attacks. It will use Thunderbolt, a close range conal attack. Then it will cast Charybdis, spawning a cyclone which pulses periodically for larger than the cyclone itself. Then it will use Thunderbolt again. Then it will run to the Eastern side of the room and use Trounce, a large conal attack. It will then repeat this pattern, but will use trounce from the Western side of the room instead, switching between East and West.
+
+At 10% health, it will soft enrage and begin spam casting Ecliptic Meteor, which will deal 80% of your health in damage if the cast goes off. Try to kill it before the second cast, but there's plenty of time, so don't panic!
 
 ## Floors 81-90
 ### Mob Overview
