@@ -107,6 +107,9 @@ After 4 puddles it will run to the centre and cast "Fear Itself", an untelegraph
 
 ### Mob Overview
 
+Good to Fight:
+- Everything
+
 Caution:
 - Succubus - Patrols. Does a telegraphed AoE terror around itself, followed by a damaging AoE cast - avoid these casts
 - Monk - Does a pull in followed by an AoE, can be annoying, be wary around traps
@@ -133,6 +136,9 @@ If you have maxed aetherpool, you can kill it before the terror hits, if you are
 ## Floors 41-50
 ### Mob Overview
 
+Good to Fight:
+- Everything
+
 Caution:
 - Wraith - Patrols, casts scream, a large AoE which is interruptible
 - Bhoot - Casts an interruptible paralyze 3
@@ -155,8 +161,27 @@ She also periodically uses a gaze attack called Cold Feet which should be avoide
 
 ## Floors 51-60
 ### Mob Overview
+Good to Fight:
+- Everything
+
+Caution:
+- Deepeye - Casts a gaze called Hypnotize
+- Pot - Casts a gaze which does damage and inflicts blind
+
+Proximity:
+- Pudding
+- Pot
+- Idol
+- Arch Demon
 
 ### The Boss
+**TL;DR** Kite it around the edge. Places 2 puddles which inflict bleed, then summons orbs around edge and casts a knockback - get knocked into a spot without orbs.
+
+This boss has a cycle where it will place 2 puddles which inflict bleed while you're standing in them, while this happens you should kite it around the outside of the room.
+
+Once 2 puddles have been placed, it will summon orbs around the edge of the room with some gaps, then channel a knockback. You should position yourself to be knocked back to an area there are no orbs. After the knockback the orbs will explode and the boss will restart the cycle of placing puddles.
+
+You can use Arm's Length to avoid the knockback, but this is mainly only useful if the bleed puddles are over both gaps in the orbs.
 
 ## Floors 61-70
 ### Mob Overview
