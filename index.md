@@ -108,7 +108,7 @@ After 4 puddles it will run to the centre and cast "Fear Itself", an untelegraph
 ### Mob Overview
 
 Caution:
-- Succubus - Does a telegraphed AoE terror around itself, followed by a damaging AoE cast - avoid these casts
+- Succubus - Patrols. Does a telegraphed AoE terror around itself, followed by a damaging AoE cast - avoid these casts
 - Monk - Does a pull in followed by an AoE, can be annoying, be wary around traps
 
 Proximity:
@@ -133,8 +133,25 @@ If you have maxed aetherpool, you can kill it before the terror hits, if you are
 ## Floors 41-50
 ### Mob Overview
 
+Caution:
+- Wraith - Patrols, casts scream, a large AoE which is interruptible
+- Bhoot - Casts an interruptible paralyze 3
+
+Proximity:
+- Knight
+- Wraith
+- Persona
+
+Sound:
+- Bhoot
+- Gravekeeper
+
 ### The Boss
-**TL;DR:** 
+**TL;DR:** Stay close for donut AoEs, respect the Cold Feet glare, avoid AoEs
+
+This boss casts In Health periodically as either a ring or a donut AoE, requiring you to run away from or towards her respectively. It's best to not kite too far away from her to be able to reach her for the donut variant. If you get hit by In Health, a rune on the floor with light up and future casts of her global AoE will deal more damage.
+
+She also periodically uses a gaze attack called Cold Feet which should be avoided.
 
 ## Floors 51-60
 ### Mob Overview
