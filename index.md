@@ -107,10 +107,28 @@ After 4 puddles it will run to the centre and cast "Fear Itself", an untelegraph
 
 ### Mob Overview
 
+Caution:
+- Succubus - Does a telegraphed AoE terror around itself, followed by a damaging AoE cast - avoid these casts
+- Monk - Does a pull in followed by an AoE, can be annoying, be wary around traps
 
+Proximity:
+- Mummy
+- Monk
+- Troubador
+- Gourmand
+
+Sound:
+- Hecteyes
+- Bogy
 
 ### The Boss
-**TL;DR:** 
+**TL;DR:** Use strength, Lust to 5 stacks and nuke it
+
+Does periodic, easy to avoid AoEs. It eventually summons adds, and then shortly afterwards do an unavoidable AoE which inflicts terror, at this point if the adds are still alive they will likely kill you; while you are terrored it will also do a roomwide AoE, dealing more damage.
+
+Ideally you should be at least level 58 as a MCH fighting this boss (for Drill) if not level 60.
+
+If you have maxed aetherpool, you can kill it before the terror hits, if you are unsure, focus the adds when they spawn.
 
 ## Floors 41-50
 ### Mob Overview
